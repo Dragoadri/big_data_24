@@ -1,0 +1,28 @@
+<configuration>
+  <property>
+    <name>fs.defaultFS</name>
+    <value>hdfs://namenode:9000</value>
+  </property>
+
+  <property>
+    <name>hadoop.tmp.dir</name>
+    <value>/opt/hadoop/data/tmp</value>
+    <description>A base for other temporary directories.</description>
+  </property>
+
+  <property>
+    <name>io.file.buffer.size</name>
+    <value>131072</value>
+  </property>
+
+  <property>
+    <name>dfs.client.use.datanode.hostname</name>
+    <value>true</value>
+  </property>
+
+  <property>
+    <name>ipc.client.connect.max.retries</name>
+    <value>10</value>
+  </property>
+</configuration>
+

@@ -1,0 +1,137 @@
+[
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c327b"},
+    "estado_reserva": "confirmada",
+    "fecha_reserva": "2024-01-05",
+    "proveedor_id": 2,
+    "reserva_id": 301,
+    "servicio_id": 101,
+    "user_id": 1
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c327c"},
+    "estado_reserva": "pendiente",
+    "fecha_reserva": "2024-01-10",
+    "proveedor_id": 4,
+    "reserva_id": 302,
+    "servicio_id": 102,
+    "user_id": 3
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c327d"},
+    "estado_reserva": "cancelada",
+    "fecha_reserva": "2024-01-15",
+    "proveedor_id": 6,
+    "reserva_id": 303,
+    "servicio_id": 103,
+    "user_id": 5
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c327e"},
+    "estado_reserva": "confirmada",
+    "fecha_reserva": "2024-02-01",
+    "proveedor_id": 8,
+    "reserva_id": 304,
+    "servicio_id": 104,
+    "user_id": 7
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c327f"},
+    "estado_reserva": "confirmada",
+    "fecha_reserva": "2024-02-15",
+    "proveedor_id": 10,
+    "reserva_id": 305,
+    "servicio_id": 105,
+    "user_id": 9
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3280"},
+    "estado_reserva": "cancelada",
+    "fecha_reserva": "2024-02-18",
+    "proveedor_id": 12,
+    "reserva_id": 306,
+    "servicio_id": 106,
+    "user_id": 11
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3281"},
+    "estado_reserva": "pendiente",
+    "fecha_reserva": "2024-03-02",
+    "proveedor_id": 14,
+    "reserva_id": 307,
+    "servicio_id": 107,
+    "user_id": 13
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3282"},
+    "estado_reserva": "confirmada",
+    "fecha_reserva": "2024-03-07",
+    "proveedor_id": 16,
+    "reserva_id": 308,
+    "servicio_id": 108,
+    "user_id": 15
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3283"},
+    "estado_reserva": "confirmada",
+    "fecha_reserva": "2024-03-12",
+    "proveedor_id": 18,
+    "reserva_id": 309,
+    "servicio_id": 109,
+    "user_id": 17
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3284"},
+    "estado_reserva": "pendiente",
+    "fecha_reserva": "2024-03-15",
+    "proveedor_id": 20,
+    "reserva_id": 310,
+    "servicio_id": 110,
+    "user_id": 19
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3285"},
+    "estado_reserva": "cancelada",
+    "fecha_reserva": "2024-03-20",
+    "proveedor_id": 2,
+    "reserva_id": 311,
+    "servicio_id": 111,
+    "user_id": 1
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3286"},
+    "estado_reserva": "confirmada",
+    "fecha_reserva": "2024-04-01",
+    "proveedor_id": 4,
+    "reserva_id": 312,
+    "servicio_id": 112,
+    "user_id": 3
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3287"},
+    "estado_reserva": "confirmada",
+    "fecha_reserva": "2024-04-05",
+    "proveedor_id": 6,
+    "reserva_id": 313,
+    "servicio_id": 113,
+    "user_id": 5
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3288"},
+    "estado_reserva": "cancelada",
+    "fecha_reserva": "2024-04-10",
+    "proveedor_id": 8,
+    "reserva_id": 314,
+    "servicio_id": 114,
+    "user_id": 7
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3289"},
+    "estado_reserva": "confirmada",
+    "fecha_reserva": "2024-04-12",
+    "proveedor_id": 10,
+    "reserva_id": 315,
+    "servicio_id": 115,
+    "user_id": 9
+  }
+]

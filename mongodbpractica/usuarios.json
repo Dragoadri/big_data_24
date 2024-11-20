@@ -1,0 +1,182 @@
+[
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31cf"},
+    "email": "juan.perez@example.com",
+    "fecha_registro": "2023-10-01",
+    "nombre": "Juan Perez",
+    "rol": "cliente",
+    "ubicacion_id": 1,
+    "user_id": 1
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31d0"},
+    "email": "maria.rodriguez@example.com",
+    "fecha_registro": "2023-08-15",
+    "nombre": "Maria Rodriguez",
+    "rol": "proveedor",
+    "ubicacion_id": 2,
+    "user_id": 2
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31d1"},
+    "email": "carlos.gutierrez@example.com",
+    "fecha_registro": "2024-01-20",
+    "nombre": "Carlos Gutierrez",
+    "rol": "cliente",
+    "ubicacion_id": 3,
+    "user_id": 3
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31d2"},
+    "email": "lucia.martinez@example.com",
+    "fecha_registro": "2023-05-10",
+    "nombre": "Lucia Martinez",
+    "rol": "proveedor",
+    "ubicacion_id": 4,
+    "user_id": 4
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31d3"},
+    "email": "pedro.gomez@example.com",
+    "fecha_registro": "2023-11-05",
+    "nombre": "Pedro Gomez",
+    "rol": "cliente",
+    "ubicacion_id": 1,
+    "user_id": 5
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31d4"},
+    "email": "ana.fernandez@example.com",
+    "fecha_registro": "2023-09-30",
+    "nombre": "Ana Fernandez",
+    "rol": "proveedor",
+    "ubicacion_id": 2,
+    "user_id": 6
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31d5"},
+    "email": "miguel.torres@example.com",
+    "fecha_registro": "2024-02-12",
+    "nombre": "Miguel Torres",
+    "rol": "cliente",
+    "ubicacion_id": 3,
+    "user_id": 7
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31d6"},
+    "email": "sofia.herrera@example.com",
+    "fecha_registro": "2023-07-25",
+    "nombre": "Sofia Herrera",
+    "rol": "proveedor",
+    "ubicacion_id": 5,
+    "user_id": 8
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31d7"},
+    "email": "jorge.ruiz@example.com",
+    "fecha_registro": "2023-06-18",
+    "nombre": "Jorge Ruiz",
+    "rol": "cliente",
+    "ubicacion_id": 4,
+    "user_id": 9
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31d8"},
+    "email": "elena.castro@example.com",
+    "fecha_registro": "2023-08-20",
+    "nombre": "Elena Castro",
+    "rol": "proveedor",
+    "ubicacion_id": 6,
+    "user_id": 10
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31d9"},
+    "email": "daniela.morales@example.com",
+    "fecha_registro": "2023-12-02",
+    "nombre": "Daniela Morales",
+    "rol": "cliente",
+    "ubicacion_id": 1,
+    "user_id": 11
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31da"},
+    "email": "fernando.vega@example.com",
+    "fecha_registro": "2023-10-15",
+    "nombre": "Fernando Vega",
+    "rol": "proveedor",
+    "ubicacion_id": 2,
+    "user_id": 12
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31db"},
+    "email": "gabriela.rivas@example.com",
+    "fecha_registro": "2024-03-05",
+    "nombre": "Gabriela Rivas",
+    "rol": "cliente",
+    "ubicacion_id": 3,
+    "user_id": 13
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31dc"},
+    "email": "hector.reyes@example.com",
+    "fecha_registro": "2023-09-10",
+    "nombre": "Hector Reyes",
+    "rol": "proveedor",
+    "ubicacion_id": 5,
+    "user_id": 14
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31dd"},
+    "email": "valeria.ortiz@example.com",
+    "fecha_registro": "2023-11-30",
+    "nombre": "Valeria Ortiz",
+    "rol": "cliente",
+    "ubicacion_id": 4,
+    "user_id": 15
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31de"},
+    "email": "oscar.mendez@example.com",
+    "fecha_registro": "2023-07-01",
+    "nombre": "Oscar Mendez",
+    "rol": "proveedor",
+    "ubicacion_id": 6,
+    "user_id": 16
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31df"},
+    "email": "laura.alvarez@example.com",
+    "fecha_registro": "2024-01-10",
+    "nombre": "Laura Alvarez",
+    "rol": "cliente",
+    "ubicacion_id": 1,
+    "user_id": 17
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31e0"},
+    "email": "ricardo.blanco@example.com",
+    "fecha_registro": "2023-06-22",
+    "nombre": "Ricardo Blanco",
+    "rol": "proveedor",
+    "ubicacion_id": 2,
+    "user_id": 18
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31e1"},
+    "email": "patricia.ramos@example.com",
+    "fecha_registro": "2023-10-18",
+    "nombre": "Patricia Ramos",
+    "rol": "cliente",
+    "ubicacion_id": 3,
+    "user_id": 19
+  },
+  {
+    "_id": {"$oid": "671a5c3b713ca664b96c31e2"},
+    "email": "andres.salazar@example.com",
+    "fecha_registro": "2023-08-07",
+    "nombre": "Andres Salazar",
+    "rol": "proveedor",
+    "ubicacion_id": 5,
+    "user_id": 20
+  }
+]

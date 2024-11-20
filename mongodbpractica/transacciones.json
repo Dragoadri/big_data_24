@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c329a"},
+    "estado_pago": "completado",
+    "fecha_pago": "2024-01-05",
+    "monto": 50,
+    "transaccion_id": 501,
+    "user_id": 1
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c329b"},
+    "estado_pago": "pendiente",
+    "fecha_pago": "2024-01-10",
+    "monto": 100,
+    "transaccion_id": 502,
+    "user_id": 3
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c329c"},
+    "estado_pago": "completado",
+    "fecha_pago": "2024-01-15",
+    "monto": 75,
+    "transaccion_id": 503,
+    "user_id": 5
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c329d"},
+    "estado_pago": "cancelado",
+    "fecha_pago": "2024-02-01",
+    "monto": 150,
+    "transaccion_id": 504,
+    "user_id": 7
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c329e"},
+    "estado_pago": "completado",
+    "fecha_pago": "2024-02-15",
+    "monto": 45,
+    "transaccion_id": 505,
+    "user_id": 9
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c329f"},
+    "estado_pago": "cancelado",
+    "fecha_pago": "2024-02-18",
+    "monto": 60,
+    "transaccion_id": 506,
+    "user_id": 11
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32a0"},
+    "estado_pago": "pendiente",
+    "fecha_pago": "2024-03-02",
+    "monto": 70,
+    "transaccion_id": 507,
+    "user_id": 13
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32a1"},
+    "estado_pago": "completado",
+    "fecha_pago": "2024-03-07",
+    "monto": 120,
+    "transaccion_id": 508,
+    "user_id": 15
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32a2"},
+    "estado_pago": "completado",
+    "fecha_pago": "2024-03-12",
+    "monto": 40,
+    "transaccion_id": 509,
+    "user_id": 17
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32a3"},
+    "estado_pago": "pendiente",
+    "fecha_pago": "2024-03-15",
+    "monto": 80,
+    "transaccion_id": 510,
+    "user_id": 19
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32a4"},
+    "estado_pago": "cancelado",
+    "fecha_pago": "2024-03-20",
+    "monto": 110,
+    "transaccion_id": 511,
+    "user_id": 1
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32a5"},
+    "estado_pago": "completado",
+    "fecha_pago": "2024-04-01",
+    "monto": 90,
+    "transaccion_id": 512,
+    "user_id": 3
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32a6"},
+    "estado_pago": "completado",
+    "fecha_pago": "2024-04-05",
+    "monto": 140,
+    "transaccion_id": 513,
+    "user_id": 5
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32a7"},
+    "estado_pago": "cancelado",
+    "fecha_pago": "2024-04-10",
+    "monto": 60,
+    "transaccion_id": 514,
+    "user_id": 7
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32a8"},
+    "estado_pago": "completado",
+    "fecha_pago": "2024-04-12",
+    "monto": 90,
+    "transaccion_id": 515,
+    "user_id": 9
+  }
+]

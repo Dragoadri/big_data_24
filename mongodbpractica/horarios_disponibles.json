@@ -1,0 +1,107 @@
+[
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32a9"},
+    "día": "Lunes",
+    "hora_fin": "12:00",
+    "hora_inicio": "08:00",
+    "proveedor_id": 2
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32aa"},
+    "día": "Martes",
+    "hora_fin": "13:00",
+    "hora_inicio": "09:00",
+    "proveedor_id": 4
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32ab"},
+    "día": "Miércoles",
+    "hora_fin": "14:00",
+    "hora_inicio": "10:00",
+    "proveedor_id": 6
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32ac"},
+    "día": "Jueves",
+    "hora_fin": "12:00",
+    "hora_inicio": "08:00",
+    "proveedor_id": 8
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32ad"},
+    "día": "Viernes",
+    "hora_fin": "15:00",
+    "hora_inicio": "11:00",
+    "proveedor_id": 10
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32ae"},
+    "día": "Lunes",
+    "hora_fin": "17:00",
+    "hora_inicio": "13:00",
+    "proveedor_id": 12
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32af"},
+    "día": "Martes",
+    "hora_fin": "18:00",
+    "hora_inicio": "14:00",
+    "proveedor_id": 14
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32b0"},
+    "día": "Miércoles",
+    "hora_fin": "19:00",
+    "hora_inicio": "15:00",
+    "proveedor_id": 16
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32b1"},
+    "día": "Jueves",
+    "hora_fin": "13:00",
+    "hora_inicio": "09:00",
+    "proveedor_id": 18
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32b2"},
+    "día": "Viernes",
+    "hora_fin": "16:00",
+    "hora_inicio": "12:00",
+    "proveedor_id": 20
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32b3"},
+    "día": "Sábado",
+    "hora_fin": "14:00",
+    "hora_inicio": "10:00",
+    "proveedor_id": 2
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32b4"},
+    "día": "Lunes",
+    "hora_fin": "12:00",
+    "hora_inicio": "08:00",
+    "proveedor_id": 4
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32b5"},
+    "día": "Viernes",
+    "hora_fin": "15:00",
+    "hora_inicio": "11:00",
+    "proveedor_id": 6
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32b6"},
+    "día": "Miércoles",
+    "hora_fin": "18:00",
+    "hora_inicio": "14:00",
+    "proveedor_id": 8
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32b7"},
+    "día": "Jueves",
+    "hora_fin": "13:00",
+    "hora_inicio": "09:00",
+    "proveedor_id": 10
+  }
+]

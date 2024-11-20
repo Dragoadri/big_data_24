@@ -1,0 +1,43 @@
+<configuration>
+  <!-- Directories for NameNode and DataNodes -->
+  <property>
+    <name>dfs.namenode.name.dir</name>
+    <value>file:///opt/hadoop/data/nameNode</value>
+  </property>
+
+  <property>
+    <name>dfs.datanode.data.dir</name>
+    <value>file:///opt/hadoop/data/dataNode</value>
+  </property>
+
+  <!-- Replication factor -->
+  <property>
+    <name>dfs.replication</name>
+    <value>2</value> <!-- Usamos 2 réplicas ya que tienes dos DataNodes -->
+  </property>
+
+  <!-- Safe mode threshold for starting replication -->
+  <property>
+    <name>dfs.namenode.replication.min</name>
+    <value>1</value>
+  </property>
+
+  <!-- Allowing usage of hostnames instead of IPs for DataNode -->
+  <property>
+    <name>dfs.client.use.datanode.hostname</name>
+    <value>true</value>
+  </property>
+
+  <!-- Heartbeat interval to maintain communication between NameNode and DataNodes -->
+  <property>
+    <name>dfs.heartbeat.interval</name>
+    <value>3</value>
+  </property>
+
+  <!-- Blocksize and other tuning options -->
+  <property>
+    <name>dfs.blocksize</name>
+    <value>134217728</value> <!-- 128MB block size -->
+  </property>
+</configuration>
+

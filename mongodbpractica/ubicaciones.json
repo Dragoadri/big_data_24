@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32b8"},
+    "ciudad": "Ciudad de México",
+    "pais": "México",
+    "ubicacion_id": 1
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32b9"},
+    "ciudad": "Buenos Aires",
+    "pais": "Argentina",
+    "ubicacion_id": 2
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32ba"},
+    "ciudad": "Madrid",
+    "pais": "España",
+    "ubicacion_id": 3
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32bb"},
+    "ciudad": "Bogotá",
+    "pais": "Colombia",
+    "ubicacion_id": 4
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32bc"},
+    "ciudad": "Lima",
+    "pais": "Perú",
+    "ubicacion_id": 5
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32bd"},
+    "ciudad": "Santiago",
+    "pais": "Chile",
+    "ubicacion_id": 6
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32be"},
+    "ciudad": "Caracas",
+    "pais": "Venezuela",
+    "ubicacion_id": 7
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32bf"},
+    "ciudad": "Sao Paulo",
+    "pais": "Brasil",
+    "ubicacion_id": 8
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32c0"},
+    "ciudad": "Quito",
+    "pais": "Ecuador",
+    "ubicacion_id": 9
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32c1"},
+    "ciudad": "La Paz",
+    "pais": "Bolivia",
+    "ubicacion_id": 10
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32c2"},
+    "ciudad": "Montevideo",
+    "pais": "Uruguay",
+    "ubicacion_id": 11
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32c3"},
+    "ciudad": "Ciudad de Guatemala",
+    "pais": "Guatemala",
+    "ubicacion_id": 12
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32c4"},
+    "ciudad": "San José",
+    "pais": "Costa Rica",
+    "ubicacion_id": 13
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32c5"},
+    "ciudad": "Panamá",
+    "pais": "Panamá",
+    "ubicacion_id": 14
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c32c6"},
+    "ciudad": "Tegucigalpa",
+    "pais": "Honduras",
+    "ubicacion_id": 15
+  }
+]

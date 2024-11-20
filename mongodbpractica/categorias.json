@@ -1,0 +1,77 @@
+[
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c326c"},
+    "categoria_id": 201,
+    "nombre_categoria": "Salud"
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c326d"},
+    "categoria_id": 202,
+    "nombre_categoria": "Legal"
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c326e"},
+    "categoria_id": 203,
+    "nombre_categoria": "Psicología"
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c326f"},
+    "categoria_id": 204,
+    "nombre_categoria": "Negocios"
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3270"},
+    "categoria_id": 205,
+    "nombre_categoria": "Educación"
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3271"},
+    "categoria_id": 206,
+    "nombre_categoria": "Deportes"
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3272"},
+    "categoria_id": 207,
+    "nombre_categoria": "Terapia"
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3273"},
+    "categoria_id": 208,
+    "nombre_categoria": "Creativo"
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3274"},
+    "categoria_id": 209,
+    "nombre_categoria": "Bienestar"
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3275"},
+    "categoria_id": 210,
+    "nombre_categoria": "Tecnología"
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3276"},
+    "categoria_id": 211,
+    "nombre_categoria": "Traducción"
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3277"},
+    "categoria_id": 212,
+    "nombre_categoria": "Marketing"
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3278"},
+    "categoria_id": 213,
+    "nombre_categoria": "Contabilidad"
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c3279"},
+    "categoria_id": 214,
+    "nombre_categoria": "Mecánica"
+  },
+  {
+    "_id": {"$oid": "671a5e2b713ca664b96c327a"},
+    "categoria_id": 215,
+    "nombre_categoria": "Consultoría"
+  }
+]

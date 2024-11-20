@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {"$oid": "671a5e0b713ca664b96c325c"},
+    "categoria_id": 201,
+    "descripcion": "Consulta general con diagnóstico inicial.",
+    "nombre_servicio": "Consulta Médica",
+    "precio": 50,
+    "servicio_id": 101
+  },
+  {
+    "_id": {"$oid": "671a5e0b713ca664b96c325d"},
+    "categoria_id": 202,
+    "descripcion": "Asesoría en temas civiles y penales.",
+    "nombre_servicio": "Asesoría Legal",
+    "precio": 100,
+    "servicio_id": 102
+  },
+  {
+    "_id": {"$oid": "671a5e0b713ca664b96c325e"},
+    "categoria_id": 203,
+    "descripcion": "Sesión de terapia psicológica individual.",
+    "nombre_servicio": "Terapia Psicológica",
+    "precio": 75,
+    "servicio_id": 103
+  },
+  {
+    "_id": {"$oid": "671a5e0b713ca664b96c325f"},
+    "categoria_id": 204,
+    "descripcion": "Consultoría especializada en desarrollo empresarial.",
+    "nombre_servicio": "Consultoría de Negocios",
+    "precio": 150,
+    "servicio_id": 104
+  },
+  {
+    "_id": {"$oid": "671a5e0b713ca664b96c3260"},
+    "categoria_id": 205,
+    "descripcion": "Clases de inglés básico a avanzado.",
+    "nombre_servicio": "Clases de Inglés",
+    "precio": 45,
+    "servicio_id": 105
+  },
+  {
+    "_id": {"$oid": "671a5e0b713ca664b96c3261"},
+    "categoria_id": 206,
+    "descripcion": "Entrenamiento físico personalizado.",
+    "nombre_servicio": "Entrenamiento Personal",
+    "precio": 60,
+    "servicio_id": 106
+  },
+  {
+    "_id": {"$oid": "671a5e0b713ca664b96c3262"},
+    "categoria_id": 207,
+    "descripcion": "Sesión de fisioterapia para rehabilitación física.",
+    "nombre_servicio": "Servicio de Fisioterapia",
+    "precio": 70,
+    "servicio_id": 107
+  },
+  {
+    "_id": {"$oid": "671a5e0b713ca664b96c3263"},
+    "categoria_id": 208,
+    "descripcion": "Diseño gráfico para marcas y empresas.",
+    "nombre_servicio": "Diseño Gráfico",
+    "precio": 120,
+    "servicio_id": 108
+  },
+  {
+    "_id": {"$oid": "671a5e0b713ca664b96c3264"},
+    "categoria_id": 206,
+    "descripcion": "Clases de yoga grupales e individuales.",
+    "nombre_servicio": "Clases de Yoga",
+    "precio": 40,
+    "servicio_id": 109
+  },
+  {
+    "_id": {"$oid": "671a5e0b713ca664b96c3265"},
+    "categoria_id": 209,
+    "descripcion": "Sesión de masaje terapéutico y relajante.",
+    "nombre_servicio": "Masaje Relajante",
+    "precio": 80,
+    "servicio_id": 110
+  },
+  {
+    "_id": {"$oid": "671a5e0b713ca664b96c3266"},
+    "categoria_id": 204,
+    "descripcion": "Asesoría en inversiones y finanzas personales.",
+    "nombre_servicio": "Asesoría Financiera",
+    "precio": 110,
+    "servicio_id": 111
+  },
+  {
+    "_id": {"$oid": "671a5e0b713ca664b96c3267"},
+    "categoria_id": 207,
+    "descripcion": "Sesión de terapia ocupacional.",
+    "nombre_servicio": "Terapia Ocupacional",
+    "precio": 90,
+    "servicio_id": 112
+  },
+  {
+    "_id": {"$oid": "671a5e0b713ca664b96c3268"},
+    "categoria_id": 208,
+    "descripcion": "Curso de fotografía digital para principiantes.",
+    "nombre_servicio": "Curso de Fotografía",
+    "precio": 140,
+    "servicio_id": 113
+  },
+  {
+    "_id": {"$oid": "671a5e0b713ca664b96c3269"},
+    "categoria_id": 210,
+    "descripcion": "Reparación y mantenimiento de computadoras.",
+    "nombre_servicio": "Reparación de Computadoras",
+    "precio": 60,
+    "servicio_id": 114
+  },
+  {
+    "_id": {"$oid": "671a5e0b713ca664b96c326a"},
+    "categoria_id": 211,
+    "descripcion": "Traducción de documentos técnicos y legales.",
+    "nombre_servicio": "Traducción de Documentos",
+    "precio": 90,
+    "servicio_id": 115
+  }
+]

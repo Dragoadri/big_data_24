@@ -1,0 +1,137 @@
+[
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c328b"},
+    "comentario": "Excelente servicio, muy profesional.",
+    "comentario_id": 401,
+    "fecha": "2024-01-06",
+    "rating": 5,
+    "servicio_id": 101,
+    "user_id": 1
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c328c"},
+    "comentario": "Buena asesoría legal, pero podría mejorar en tiempos.",
+    "comentario_id": 402,
+    "fecha": "2024-01-11",
+    "rating": 4,
+    "servicio_id": 102,
+    "user_id": 3
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c328d"},
+    "comentario": "La terapia me ayudó muchísimo, recomendado.",
+    "comentario_id": 403,
+    "fecha": "2024-01-16",
+    "rating": 5,
+    "servicio_id": 103,
+    "user_id": 5
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c328e"},
+    "comentario": "Buen servicio, pero algo costoso.",
+    "comentario_id": 404,
+    "fecha": "2024-02-02",
+    "rating": 3,
+    "servicio_id": 104,
+    "user_id": 7
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c328f"},
+    "comentario": "Las clases de inglés fueron buenas.",
+    "comentario_id": 405,
+    "fecha": "2024-02-16",
+    "rating": 4,
+    "servicio_id": 105,
+    "user_id": 9
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c3290"},
+    "comentario": "Entrenador muy profesional y dedicado.",
+    "comentario_id": 406,
+    "fecha": "2024-02-19",
+    "rating": 5,
+    "servicio_id": 106,
+    "user_id": 11
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c3291"},
+    "comentario": "No cumplió mis expectativas.",
+    "comentario_id": 407,
+    "fecha": "2024-03-03",
+    "rating": 2,
+    "servicio_id": 107,
+    "user_id": 13
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c3292"},
+    "comentario": "Excelente diseño gráfico, muy creativo.",
+    "comentario_id": 408,
+    "fecha": "2024-03-08",
+    "rating": 5,
+    "servicio_id": 108,
+    "user_id": 15
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c3293"},
+    "comentario": "Las clases de yoga fueron fantásticas.",
+    "comentario_id": 409,
+    "fecha": "2024-03-13",
+    "rating": 5,
+    "servicio_id": 109,
+    "user_id": 17
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c3294"},
+    "comentario": "Muy buen masaje relajante.",
+    "comentario_id": 410,
+    "fecha": "2024-03-16",
+    "rating": 4,
+    "servicio_id": 110,
+    "user_id": 19
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c3295"},
+    "comentario": "Esperaba un poco más de la asesoría financiera.",
+    "comentario_id": 411,
+    "fecha": "2024-03-21",
+    "rating": 3,
+    "servicio_id": 111,
+    "user_id": 1
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c3296"},
+    "comentario": "Terapia ocupacional excelente.",
+    "comentario_id": 412,
+    "fecha": "2024-04-02",
+    "rating": 5,
+    "servicio_id": 112,
+    "user_id": 3
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c3297"},
+    "comentario": "El curso de fotografía fue muy interesante.",
+    "comentario_id": 413,
+    "fecha": "2024-04-06",
+    "rating": 4,
+    "servicio_id": 113,
+    "user_id": 5
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c3298"},
+    "comentario": "Mi computadora quedó como nueva.",
+    "comentario_id": 414,
+    "fecha": "2024-04-11",
+    "rating": 5,
+    "servicio_id": 114,
+    "user_id": 7
+  },
+  {
+    "_id": {"$oid": "671a5e4b713ca664b96c3299"},
+    "comentario": "Excelente traducción de documentos.",
+    "comentario_id": 415,
+    "fecha": "2024-04-13",
+    "rating": 5,
+    "servicio_id": 115,
+    "user_id": 9
+  }
+]

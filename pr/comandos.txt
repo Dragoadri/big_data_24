@@ -1,0 +1,12 @@
+Para ejecutar este programa en un entorno Hadoop, puedes usar el siguiente comando:
+
+hadoop jar /opt/hadoop/share/hadoop/tools/lib/hadoop-streaming-x.x.x.jar \
+  -input /PATH_TO_FILE_IN_HDFS/quijote.txt \
+  -output output2 \
+  -mapper "/usr/bin/python2 /PATH_TO_FILE/pymap.py" \
+  -reducer "/usr/bin/python2 /PATH_TO_FILE/pyreduce.py"
+
+Para copiar archivos desde tu host al contenedor de Docker:
+
+docker cp /path/to/local/file container_name:/path/in/container
+docker cp ./myfile.txt my_container:/app/myfile.txt
